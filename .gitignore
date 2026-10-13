@@ -1,0 +1,14 @@
+# Local test data and secrets
+.env
+.env.*
+!.env.example
+.alma-demo/
+*.sqlite3
+*.sqlite3-*
+*.db
+*.db-*
+__pycache__/
+*.py[cod]
+.venv/
+*.log
+.DS_Store
